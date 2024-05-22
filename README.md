@@ -1,4 +1,4 @@
-#ASPNET-Core-Web-Api
--Entity Framework
--SQL Server
--Full CRUD
+# ASPNET-Core-Web-Api
+- Entity Framework
+- SQL Server
+- Full CRUD
